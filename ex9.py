@@ -7,7 +7,7 @@ months = "Jan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug"
 
 # This print the days of week .
 print("Here are the days:", days)
-# This print the months of year .
+# This print the months of year.
 print("Here are the months:", months)
 
 # Here is a print that contains triple-quotes .
